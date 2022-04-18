@@ -1,0 +1,5 @@
+*.DS_Store
+product/
+sourse/dllist.cpp
+*.sublime-workspace
+data/
